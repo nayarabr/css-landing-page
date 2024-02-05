@@ -1,9 +1,20 @@
-# Desafio 01: Criando sua primeira Landing Page com HTML e CSS
+# Primeiro desafio do curso "Formação CSS Developer" da plataforma Dio (Digital Innovation One)
+
+## Desafio: Criando sua primeira Landing Page com HTML e CSS
+
+[Resultado final](https://nayarabr.github.io/css-landing-page/)
+
+#### Descrição do desafio abaixo!
+------------------------
+### Olá! Sou Nayara Bastos 💜
+#### Conecte-se comigo
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-886CE4?style=for-the-badge)](https://web.dio.me/users/nayarabr1992)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayara-bastos/)
+
+-----------------------
 
 Bem vindo(a) ao primeiro desafio da Trilha de CSS da DIO! Nela, você vai construir sua primeira Landing Page com HTML e CSS, colocando em prática os fundamentos do CSS,
 as propriedades básicas da linguagem de estilização, além de trabalhar com as unidades de medidas relativas e absolutas que aprendemos ao longo da trilha.
-
-[Clique aqui](https://micheleambrosio.github.io/dio-trilha-css-desafio-01/) para acessar o resultado final da Landing Page criada a partir do desafio!
 
 ![image](https://user-images.githubusercontent.com/55519539/183538055-6cce606c-7d1d-4d15-a4be-ffeb5b37c956.png)
 
